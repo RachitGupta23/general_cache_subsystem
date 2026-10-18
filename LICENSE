@@ -1,0 +1,29 @@
+Copyright (c) 2026 Rachit Gupta. All rights reserved.
+
+This repository contains documentation and descriptive material about the
+general_cache_subsytem design (the "Material").
+
+1. PERMITTED USE. You may view, read, and link to the Material for personal,
+   non-commercial purposes, including evaluating the author's work. You may
+   also use the viewing and forking features of the GitHub platform as
+   permitted by the GitHub Terms of Service.
+
+2. RESTRICTIONS. Except as stated in Section 1, you may not copy, reproduce,
+   modify, translate, distribute, publish, or create derivative works from
+   the Material, or use it for any commercial purpose, without the prior
+   written permission of the copyright holder. You may quote short excerpts
+   with attribution and a link to this repository to the extent permitted by
+   applicable law.
+
+3. NO RIGHTS TO PRIVATE REPOSITORIES. The block repositories referenced from
+   this repository are private. Nothing in this license grants any right of
+   access to, or any license under, their contents.
+
+4. NO TRAINING. You may not use the Material to train machine learning or AI
+   models.
+
+5. NO WARRANTY. THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM OR
+   DAMAGES ARISING FROM THE USE OF THE MATERIAL.
+
+For permission requests, contact: racg.archives@gmail.com

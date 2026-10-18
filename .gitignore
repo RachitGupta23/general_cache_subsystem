@@ -1,0 +1,46 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+.newfile.conf
+
+# Temp and backup files
+*.tmp
+*.bak
+~$*
+.~lock.*
+
+# Docs build output (if you publish a site)
+docs/_build/
+site/
+
+# Safety net: hardware source and tool output never belong in the public repo
+*.sv
+*.svh
+*.v
+*.vh
+*.vhd
+*.vhdl
+*.vcd
+*.fst
+*.fsdb
+*.wlf
+*.saif
+*.sdc
+*.xdc
+*.upf
+*.lib
+*.lef
+*.def
+*.gds
+*.oas
